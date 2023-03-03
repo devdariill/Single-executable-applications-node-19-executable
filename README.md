@@ -25,4 +25,4 @@
         codesing --sing - hello
 7.  delete hello.js 
 8.  rename hello -> hello.js
-9 ./hello Twitch
+9.  ./hello Twitch
